@@ -22,7 +22,7 @@
 
 # 👉 Author
 ---
-- Dongwook, Shin
-- Sewon, Ko
-- Rocksan, Choi
-- Gun, Kim
+- Dongwook, Shin (shin)
+- Sewon, Ko (ko)
+- Rocksan, Choi (choi)
+- Gun, Kim (kim)
